@@ -1,0 +1,5 @@
+C:\MyCode\IdentityServer3WCF\Constants\bin\Debug\Constants.dll
+C:\MyCode\IdentityServer3WCF\Constants\bin\Debug\Constants.pdb
+C:\MyCode\IdentityServer3WCF\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+C:\MyCode\IdentityServer3WCF\Constants\obj\Debug\Constants.dll
+C:\MyCode\IdentityServer3WCF\Constants\obj\Debug\Constants.pdb

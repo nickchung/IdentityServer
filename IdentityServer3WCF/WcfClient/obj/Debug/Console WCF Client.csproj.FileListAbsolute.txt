@@ -1,0 +1,20 @@
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\WcfClient.exe.config
+C:\MyCode\IdentityServer3WCF\WcfClient\obj\Debug\Console WCF Client.csprojResolveAssemblyReference.cache
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\WcfClient.exe
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\WcfClient.pdb
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\Constants.dll
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\IdentityModel.dll
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\Newtonsoft.Json.dll
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\WcfService.exe
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\Constants.pdb
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\WcfService.pdb
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\IdentityModel.pdb
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\Newtonsoft.Json.xml
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\MyCode\IdentityServer3WCF\WcfClient\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\MyCode\IdentityServer3WCF\WcfClient\obj\Debug\WcfClient.exe
+C:\MyCode\IdentityServer3WCF\WcfClient\obj\Debug\WcfClient.pdb
